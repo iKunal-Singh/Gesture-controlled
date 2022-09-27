@@ -1,15 +1,6 @@
 # Gesture-controlled
 Gesture-Controlled Virtual Mouse makes human-computer interaction simple by making use of Hand Gestures and Voice Commands. The computer requires almost no direct contact.
-# Features & Description
+# Design
 
-Gesture Recognition:
-Neutral Gesture: Used to halt/stop the execution of the current gesture.
-Move Cursor: The cursor is assigned to the midpoint of the index and middle fingertips. This gesture moves the cursor to the desired location. The speed of the cursor movement is proportional to the speed of the hand.
-Left Click
-Right Click
-Double Click
-Scrolling: Dynamic Gestures for horizontal and vertical scroll. The speed of the scroll is proportional to the distance moved by the pinch gesture from the start point. Vertical and Horizontal scrolls are controlled by vertical and horizontal pinch movements respectively.
-Drag and Drop
-Multiple Item Selection
-Volume Control: Dynamic Gestures for Volume control. The rate of increase/decrease of volume is proportional to the distance moved by the pinch gesture from the start point.
-Brightness Control: Dynamic Gestures for Brightness control. The rate of increase/decrease of brightness is proportional to the distance moved by the pinch gesture from the start point.
+Using the current system even-though there are a number of quick access methods available for the hand and mouse gesture for the laptops, using our project we could make use of the laptop or web-cam and by recognizing the hand gesture we could control mouse and perform basic operations like mouse pointer controlling, select and deselect using left click. The project done is a hand recognition system for laptops, which uses simple algorithms to determine the hand, hand movements and by assigning an action for each movement. But we have mainly concentrated on the mouse pointing and clicking actions. The system we are implementing which is been written in python code is much more responsive and easily implemented since python is a simple language and is platform independent flexible and portable which is desirable in creating a program that is focused on such an aim for creating a Virtual Mouse and Hand Recognition system.
+
